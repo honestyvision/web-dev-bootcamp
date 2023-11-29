@@ -1,0 +1,12 @@
+
+#main {
+    width: 500px;
+    height: 500px;
+    background-color: yellow;
+}
+
+#child {
+    background-color: blue;
+    width: 50%;
+    height: 50%;
+}
